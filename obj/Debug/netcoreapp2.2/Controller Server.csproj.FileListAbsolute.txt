@@ -1,0 +1,11 @@
+C:\Users\Kristian\documents\Controller Server\bin\Debug\netcoreapp2.2\Controller Server.deps.json
+C:\Users\Kristian\documents\Controller Server\bin\Debug\netcoreapp2.2\Controller Server.runtimeconfig.json
+C:\Users\Kristian\documents\Controller Server\bin\Debug\netcoreapp2.2\Controller Server.runtimeconfig.dev.json
+C:\Users\Kristian\documents\Controller Server\bin\Debug\netcoreapp2.2\Controller Server.dll
+C:\Users\Kristian\documents\Controller Server\bin\Debug\netcoreapp2.2\Controller Server.pdb
+C:\Users\Kristian\documents\Controller Server\obj\Debug\netcoreapp2.2\Controller Server.csprojAssemblyReference.cache
+C:\Users\Kristian\documents\Controller Server\obj\Debug\netcoreapp2.2\Controller Server.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\documents\Controller Server\obj\Debug\netcoreapp2.2\Controller Server.AssemblyInfoInputs.cache
+C:\Users\Kristian\documents\Controller Server\obj\Debug\netcoreapp2.2\Controller Server.AssemblyInfo.cs
+C:\Users\Kristian\documents\Controller Server\obj\Debug\netcoreapp2.2\Controller Server.dll
+C:\Users\Kristian\documents\Controller Server\obj\Debug\netcoreapp2.2\Controller Server.pdb
